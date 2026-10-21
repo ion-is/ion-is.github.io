@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 아바타 자리표시 이미지: 실제 아바타 이미지로 교체하세요 -->
+  <rect width="200" height="200" fill="#e3f4f2"/>
+  <circle cx="100" cy="150" r="70" fill="#0e8a88"/>
+  <circle cx="100" cy="82" r="42" fill="#ffd9c7"/>
+  <path d="M58 76 Q100 20 142 76 Q130 50 100 50 Q70 50 58 76Z" fill="#3b2a24"/>
+  <path d="M52 70 Q100 34 148 70 L150 78 L50 78Z" fill="#e8664a"/>
+  <circle cx="86" cy="86" r="5" fill="#1d2528"/>
+  <circle cx="114" cy="86" r="5" fill="#1d2528"/>
+  <path d="M88 102 Q100 112 112 102" stroke="#1d2528" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

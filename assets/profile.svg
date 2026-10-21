@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 프로필 사진 자리표시 이미지: 실제 사진으로 교체하세요 -->
+  <rect width="200" height="200" fill="#fdebe5"/>
+  <circle cx="100" cy="80" r="38" fill="#e8664a" opacity=".55"/>
+  <path d="M30 200 Q30 130 100 130 Q170 130 170 200Z" fill="#e8664a" opacity=".55"/>
+</svg>
